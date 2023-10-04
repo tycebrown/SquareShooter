@@ -1,2 +1,2 @@
 # SquareShooter
-Madee in collaboration with @Ur16thMom
+Madee in collaboration with @tycebrown and @Ur16thMom
